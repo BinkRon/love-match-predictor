@@ -167,7 +167,7 @@
 
 ### 8.2 开发环境详情
 - 项目基本信息
-- Node.js 版本：[运行 node -v 查看]
+- Node.js 版本：v22.12.0
 - Next.js 版本：14.0.0
 - 项目地址：/Users/luohuibin/cursor_project/love-match-predictor
 - GitHub 仓库：https://github.com/BinkRon/love-match-predictor
